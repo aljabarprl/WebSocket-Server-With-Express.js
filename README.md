@@ -38,6 +38,16 @@ base.ejs
 ```
 ##
 
+##### Client Side:
+###### in chat type this command:
+```bash
+/connect your_ip:8000
+```
+###### or:
+```bash
+/wsserver your_ip:8000
+```
+
 ## Tech used:
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
