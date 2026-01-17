@@ -1,0 +1,6 @@
+
+*.json linguist-language=JSON
+
+*.jsonl linguist-language=JSON
+
+*.lang linguist-language=INI
